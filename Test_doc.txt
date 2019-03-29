@@ -1,0 +1,3 @@
+Test the add,commit and delete'
+
+how it behaves
